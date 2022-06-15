@@ -1,0 +1,2 @@
+# web-scraping-BeautifulSoup-Selenium-Scrapy
+In this repo, I explore different ways of obtaining data across third party data sources, cleaning and storing them for analytical processing. I also illustrate the different challenges and complexities of web scraping (having decent wait time, handling popups and exceptions) and nuances of handling them so that there is no adverse impact to the website servers.
